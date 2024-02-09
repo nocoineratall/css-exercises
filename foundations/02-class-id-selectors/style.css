@@ -1,0 +1,18 @@
+.odd-elements{
+    background-color: rgb(242, 152, 152);
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+
+.font24px{
+    font-size: 24px;
+}
+
+#uniq1{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#uniq2{
+    background-color: hsl(120, 63%, 82%); 
+    font-weight: bold;
+}
